@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_FluentAPI_Practice", "EF_FluentAPI_Practice\EF_FluentAPI_Practice.csproj", "{A316991C-399A-4758-9818-C022BF6CE542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A316991C-399A-4758-9818-C022BF6CE542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A316991C-399A-4758-9818-C022BF6CE542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A316991C-399A-4758-9818-C022BF6CE542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A316991C-399A-4758-9818-C022BF6CE542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB451A74-196D-4A9B-8091-061955EAEEFB}
+	EndGlobalSection
+EndGlobal
